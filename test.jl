@@ -20,5 +20,8 @@ xlabel!("Number of Steps")
 ylabel!("Increment from Large Number")
 
 
+
+
+
 # แสดงกราฟ
 display(plt)
